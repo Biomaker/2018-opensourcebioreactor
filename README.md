@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/BioMakers/2018-opensourcebioreactor/blob/master/img/logos/biomaker.png" width="300"/>
+<img src="https://github.com/BioMakers/2018-opensourcebioreactor/blob/master/img/logos/biomaker.png" width="600"/>
 
 You can directly jump to the sections:
 - [Summary](#Summary)
