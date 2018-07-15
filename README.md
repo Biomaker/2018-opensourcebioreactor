@@ -103,7 +103,7 @@ Jenny Molloy, Shuttleworth Foundation Research Fellow, Department of Plant Scien
 
 <img align="left" width="200" src="https://github.com/BioMakers/2018-opensourcebioreactor/blob/master/img/team/Harry.jpg">Harry Akligoh, Technical associate at Kumasi Hive Ghana and member of the Open Bioeconomy Lab. Biomedical Scientist in training. Harry has competencies in diagnostic medical science, medical microbiology, molecular biology and clinical chemistry. Harry can contribute biological knowledge and technical experience to the development of the bio-reactor while also helping to conduct necessary experiments to demonstrate the viability of the product as part of his work with the Open Bioeconomy Lab of making enzymes/proteins accessible to low resource sittings for research, diagnostics and education.<br><br>
 
-Juan Mosquera, Software Developer for the ChEMBL group at EMBL-EBI. He will provide support to the project with Computer Science/Electronics knowledge to use sensors (temperature, humidity, etc) and control the different parts of the bioreactor.<br><br>
+<img align="left" width="100" src="https://github.com/BioMakers/2018-opensourcebioreactor/blob/master/img/team/Juan.jpg"> Juan Mosquera, Software Developer for the ChEMBL group at EMBL-EBI. He will provide support to the project with Computer Science/Electronics knowledge to use sensors (temperature, humidity, etc) and control the different parts of the bioreactor.<br><br>
 
 <img align="left" width="100" src="https://github.com/BioMakers/2018-opensourcebioreactor/blob/master/img/team/Anna.jpg">
 Anna Kuroshchenkova, Biomedical Sciences Student, Anglia Ruskin University. She will contribute with biological knowledge, and testing the outcome of the project.
