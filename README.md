@@ -1,24 +1,40 @@
 <p align="center">
 <img src="https://github.com/BioMakers/2018-opensourcebioreactor/blob/master/img/logos/biomaker.png" width="600"/>
 
-You can directly jump to the sections:
-- [Summary](#Summary)
-- [Proposal](#Proposal)
-- [Project Implementation](#Project-Implementation)
-- [Outcome and Benefits](#Outcome-and-Benefits)
-- [References](#References)
-- [The TEAM](#The-TEAM)
-
-## Summary
+# Summary
 
 We plan to build an open source, benchtop, batch bioreactor to optimise yield of enzymes producing recombinant proteins for molecular biology such as Taq polymerase or for cell-free extract production. This will build on existing open source projects to further reduce the cost of components and pay particular attention to their global accessibility. By generating a modular design with thorough and useful documentation of different options to suit budget and accuracy requirements, we will make these devices easier to build and maintain for a wider range of users in universities, companies and biomaker spaces: in particular those in resource-constrained contexts.
 
 Contact us via Jenny Molloy (✉️  jcm80@cam.ac.uk) or via the our 💬  [chat channel](https://chat.biomake.space/members/channels/open-source-bioreactor).
 
-## Proposal:
+# Project Resources
+
+**Communications**
+
+- [Chat Channel](https://chat.biomake.space/members/channels/open-source-bioreactor)
+- [Meeting Room](https://meet.jit.si/OpenSourceBioreactor) - next meeting TBC
+- [Project page at Biomakespace website](https://biomake.space/projects/open-source-bioreactor)
+- Project page at biomaker.org: TBC
+
+**Documentation**
+- [Github repository](https://github.com/BioMakers/2018-opensourcebioreactor/)
+- Hackster page: TBC
+
+**Background**
+- [Original application](https://docs.google.com/document/d/1sBjN8_nuSmiTp6iRym5IpIxILQZ007qP1RFggviMevw/edit)
+- [Links to other open source bioreactors](https://docs.google.com/document/d/101LJigxu7D3VRPI4VEKiX8SMgm8ur7guZIodBO2QvO0/edit?usp=drive_web&ouid=103519764889495260290)
+
+## Project Information
+
+You can directly jump to the sections:
+
 - [The Problem](#The-Problem)
 - [Biological System](#Biological-System)
 - [Hardware Design Goals](#Hardware-Design-Goals)
+- [Project Implementation](#Project-Implementation)
+- [Outcome and Benefits](#Outcome-and-Benefits)
+- [References](#References)
+- [The TEAM](#The-TEAM)
 
 ### The Problem
 
