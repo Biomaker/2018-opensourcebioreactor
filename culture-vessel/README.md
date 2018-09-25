@@ -1,4 +1,4 @@
-## Module A: Culture Vessel
+# Module A: Culture Vessel
 
 This module involves design of the heated vessel and connections for various sensors and devices required to monitor and intervene in the bioreactor run.
 
@@ -10,7 +10,7 @@ This module involves design of the heated vessel and connections for various sen
 
 We looked at typical culture vessels supplied by lab brands such as Duran but the cost was prohibitive (£200 for a wide-mouthed Duran bottle and an additional for the lid with bioreactor attachments).
 
-### Adhesive for connection of items in autoclavable units
+## Adhesive for connection of items in autoclavable units
 
 Adhesives should be autoclavable i.e. have high heat, humidity and pressure resistance. Various adhesives companies market epoxy resins with these properties to the medical device market e.g.those produced by [MasterBond](https://www.masterbond.com/properties/sterilization-resistant-adhesives) and 
 
@@ -31,7 +31,7 @@ Visbella Silicone Engine Repair Gasket Seal Maker High Temperature (Heat Resista
 **Chosen adhesive resin**: JB Weld Original Cold Weld Formula Steel Reinforced Epoxy 8265 ([Amazon](https://www.amazon.co.uk/gp/product/B0006O1ICE/ref=ox_sc_act_title_1?smid=A3P5ROKL5A1OLE&psc=1) | [Manufacturer] (https://www.jbweld.com/collections/metal/products/j-b-weld-twin-tube))
 
 
-### Autoclavable luer locks
+## Autoclavable luer locks
 
 There are numerous sites giving information on compatability of different plastics with different sterilisation methods, including this [useful table](http://www.industrialspec.com/images/files/plastics-sterilization-compatibility-chart-from-is-med-specialties.pdf) from industrialspec.com.
 
@@ -71,6 +71,6 @@ Ensinger Plastics ran tests with plastics exposed to pure saturated water vapour
  
 
 
-### Anti-Foam
+## Anti-Foam
 
 Agitation can lead to bubbling in E.coli cultures to it is often necessary to add anti-foam chemicals. Low-cost and commonly available anti-foam agents include olive oil, sunflower oil, silicone, polyethylene glycol.
