@@ -14,7 +14,7 @@ We looked at typical culture vessels supplied by lab brands such as Duran but th
 
 Adhesives should be autoclavable i.e. have high heat, humidity and pressure resistance. Various adhesives companies market epoxy resins with these properties to the medical device market e.g.those produced by [MasterBond](https://www.masterbond.com/properties/sterilization-resistant-adhesives) and 
 
-**Required features: **
+**Required features:**
 
  - Should withstand multiple autoclaving cycles of 3-15 minutes at 121-134°C under steam pressure up to 20 psi.
  - Pressure resistant to 20 psi
