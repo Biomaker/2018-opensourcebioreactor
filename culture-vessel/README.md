@@ -33,6 +33,10 @@ Visbella Silicone Engine Repair Gasket Seal Maker High Temperature (Heat Resista
 
 ## Autoclavable luer locks
 
+Luer locks are standardised threaded mechanisms for joining tubing and connectors, commonly used in lab and medical settings.
+
+### Plastic Materials
+
 There are numerous sites giving information on compatability of different plastics with different sterilisation methods, including this [useful table](http://www.industrialspec.com/images/files/plastics-sterilization-compatibility-chart-from-is-med-specialties.pdf) from industrialspec.com.
 
 Ensinger Plastics ran tests with plastics exposed to pure saturated water vapour at 134 °C for 10 min at 3 bar pressure. This is in accordance with DIN EN 285 European standard for large steam sterilisers, whereby all surfaces of the objects being sterilised must be exposed to pure saturated water vapour at 134 °C for at least three minutes.
@@ -48,15 +52,17 @@ Ensinger Plastics ran tests with plastics exposed to pure saturated water vapour
  - Polypropylene  (Ensinger results: TECAPRO MT shows no significant loss of mechanical properties until 800 sterilisation cycles. However, discolouration and colour change (yellowing) is seen at 200 sterilisation cycles (does not apply to TECAPRO MT black). 
  - Polycarbonate can also withstand high temperatures. 
  - Polysulfone
- - Ultem®
+ - **Ultem®**
  - PPSU (Ensinger results: TECASON P MT shows no significant loss of mechanical properties until 800 sterilisation cycles. Also, significant discolouration is not seen below 1,000 sterilisation cycles. 
- - PEEK (Ensinger results: TECAPEEK MT shows no significant loss of mechanical properties, even at more than 1,500 sterilisation cycles. Also, further negative influences like discolouration or colour change (yellowing), or even calcification are not seen above 1,500 cycles.)
+ - **PEEK** (Ensinger results: TECAPEEK MT shows no significant loss of mechanical properties, even at more than 1,500 sterilisation cycles. Also, further negative influences like discolouration or colour change (yellowing), or even calcification are not seen above 1,500 cycles.)
  - POM-C medical grade (Ensinger results: TECAFORM AH MT shows no significant loss of the mechanical properties until 800 sterilisation cycles. However, discolouration may be seen at 200 sterilisation cycles. At around 500 sterilisation cycles, a colour change (yellowing) may also be seen.)
  - PFA (perfluoroalkoxy) 
  - FEP (fluorinated ethylene propylene) 
  - ETFE (ethylene tetrafluoroethylene) 
  - PCTE (polychlorotrifluoroethylene)
  - ECTFE (ethylene chlorotrifluoroethylene)
+ 
+ **Bold** = 3D printable
 
 **NOT to be autoclaved:**
 
@@ -69,6 +75,13 @@ Ensinger Plastics ran tests with plastics exposed to pure saturated water vapour
  - Polyurethane
  - Polylactic Acid (PLA): our tests showed significant issues with brittleness after five cycles
  
+ ### Options for 3D printing
+ 
+Autoclavable 3D printing filaments are largely restricted to ULTEM and PEEK.
+The polyaryletherketone (PAEK) class of semi-crystalline plastics can withstand high temperatures and maintain high mechanical strength.
+Polyether ether ketone (PEEK) filament and polyetherimide (PEI, brand name ULTEM) ate the .
+
+Advantages of the more affordable PEI are that is has high heat, solvent and flame resistance, as well as high dielectric strength, thermal conductivity and overall strength. PEEK has higher impact strength and usable temperature.  
 
 
 ## Anti-Foam
