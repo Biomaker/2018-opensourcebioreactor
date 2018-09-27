@@ -5,7 +5,7 @@
 
 We plan to build an open source, benchtop, batch bioreactor to optimise yield of enzymes producing recombinant proteins for molecular biology such as Taq polymerase or for cell-free extract production. This will build on existing open source projects to further reduce the cost of components and pay particular attention to their global accessibility. By generating a modular design with thorough and useful documentation of different options to suit budget and accuracy requirements, we will make these devices easier to build and maintain for a wider range of users in universities, companies and biomaker spaces: in particular those in resource-constrained contexts.
 
-Contact us via Jenny Molloy (✉️  jcm80@cam.ac.uk) or via the our 💬  [chat channel](https://chat.biomake.space/members/channels/open-source-bioreactor).
+Contact us via Jenny Molloy (✉️  jcm80@cam.ac.uk) or via our 💬  [chat channel](https://chat.biomake.space/members/channels/open-source-bioreactor).
 
 # Project Resources
 
