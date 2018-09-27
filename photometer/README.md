@@ -8,10 +8,15 @@ This module comprises the development of a flow-through photometer and temperatu
 - Good culture density resolution
 
 ### Main Idea
-The culture is constantly pumped (peristaltic pump) through a glass tube where the OD is constantly measured
+The culture is constantly pumped (peristaltic pump) through a glass tube where the OD is constantly measured. The Photometer unit is based on a single module of the [test tube photometer](http://openplant.science/2017/12/09/photometer-shopping-list.html).
 
-## Photometer
-The Photometer unit is based on a single module of the [test tube photometer](http://openplant.science/2017/12/09/photometer-shopping-list.html).
+You can directly jump to the subsections:
+- [Main components](#Main_components)
+- [Measuring cell components](#Measuring_cell_components)
+- [Build instructions](#Build_instructions)
+- [Usage](#Usage)
+- [First results](#First_results)
+
 
 <img align="right" src="https://raw.githubusercontent.com/vektorious/test_tube_photometer/master/pictures/sketch.png" width=400px />
 
@@ -42,7 +47,7 @@ It is really important to use a high quality LED because it determines the wavel
 3. **Photodiode**<br>
 This is the heart of the measuring cell. We used an [opt101](http://www.ti.com/lit/ds/symlink/opt101.pdf) from Texas Instruments because it contains an on-chip operational amplifier, and responds to light in the range of 300–1100 nm (linear dependence between 400–800 nm!). We added a external potentiometer to achieve a DC gain of up to 2 million volts per ampere to optimize the output voltages.
 
-### Build Instructions
+### Build instructions
 1. **Assemble the cell housing**<br>
 The housing consists out of two parts, the main body and a sleeve. There are two respective holes in the main body in which you can place the sensor and the LED. Slowly pull the sleeve over the main body with the LED and Sensor pins sticking out (see picture above). Please remember the sensor orientation for the correct wiring of the pins!
 
@@ -74,7 +79,7 @@ Insert the measuring cell into the housing and attach the LCD display to the hou
 ### Usage
 The finished module can be attached to any peristaltic pump which fits the tube size (we used 6 mm tubing). Both ends of the tubing are inserted into the culture and the liquid should be pumped through the measuring cell. For data transfer the microcontroller can be connected to a single-board computer via a serial connection.
 
-## First results
+### First results
 
 **20.09.2018**<br>
 We finished a first prototype of the flow-through photometer and tested it with an E. coli cultures ([Jupyter Notebook with data analysis](https://github.com/BioMakers/2018-opensourcebioreactor/blob/master/photometer/photometer_data.ipynb)).
