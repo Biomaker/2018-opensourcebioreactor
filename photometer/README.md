@@ -42,15 +42,14 @@ It is really important to use a high quality LED because it determines the wavel
 3. **Photodiode**<br>
 This is the heart of the measuring cell. We used an [opt101](http://www.ti.com/lit/ds/symlink/opt101.pdf) from Texas Instruments because it contains an on-chip operational amplifier, and responds to light in the range of 300–1100 nm (linear dependence between 400–800 nm!). We added a 1MΩ external resistor to achieve a DC gain of 2 million volts per ampere to optimize the output voltages.
 
-
-<img align="right" src="https://raw.githubusercontent.com/vektorious/test_tube_photometer/master/pictures/cell_cover_fused.png" "width=500px/>
-
 ### Build Instructions
 1. **Assemble the housing**<br>
 The housing consists out of two parts, the main body and a sleeve. There are two respective holes in the main body in which you can place the sensor and the LED. Slowly pull the sleeve over the main body with the LED and Sensor pins sticking out (see picture above). Please remember the sensor orientation for the correct wiring of the pins!
 
+<p align="center">
+<img src="https://raw.githubusercontent.com/vektorious/test_tube_photometer/master/pictures/cell_cover_fused.png" width=500px></p>
+
 2. **Wiring**
-<img align="right" src="https://raw.githubusercontent.com/vektorious/test_tube_photometer/master/pictures/cell_wiring.jpg" width=500px><br>
 Now you can start and solder wires to the sensor an LED pins. If you have problems soldering the sensor pins with the housing assembled you can remove the sensor, solder the wires and then assemble the housing. But then you might have to use some force to fit the soldered pins through the gaps.
 I labeled each wire to make it easier for me to connect them later.<br><br>
 **You should end up with five wires from the sensor:**<br>
@@ -61,7 +60,7 @@ I labeled each wire to make it easier for me to connect them later.<br><br>
 - Input/Ground (Common, pin 8)
 
 ### Connect it to the microcontroller ###
-<img align="right" src="https://raw.githubusercontent.com/vektorious/test_tube_photometer/master/pictures/sketch3.png" width=300px/>
+<img align="right" src="https://raw.githubusercontent.com/vektorious/test_tube_photometer/master/pictures/sketch3.png" width=200px/>
 
 Connect sensor pin 1 to 5V, pin 3 and 8 to ground. Sensor pin is connected to pin 5 with a 1 MΩ resistor in between (see circuit diagram on the right). You can now connect the sensor output (pin 5) to any analog input pin of your microcontroller and you are ready to measure light. <br>
 Speaking of light, you still have to connect the LED with one of the digital output pins of the microcontroller to switch the light on and off.
