@@ -13,7 +13,7 @@ The culture is constantly pumped (peristaltic pump) through a glass tube where t
 ## Photometer
 The Photometer unit is based on one module of the [test tube photometer](http://openplant.science/2017/12/09/photometer-shopping-list.html)
 
-<img align="right" src="https://raw.githubusercontent.com/vektorious/test_tube_photometer/master/pictures/sketch.png" style="width: 500px ;" hspace="20" vspace="20"/>
+<img align="right" src="https://raw.githubusercontent.com/vektorious/test_tube_photometer/master/pictures/sketch.png" width=500px />
 
 ### Main components
 1. **Arduino or similar microcontroller**<br>
