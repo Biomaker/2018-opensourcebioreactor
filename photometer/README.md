@@ -11,11 +11,11 @@ This module comprises the development of a flow-through photometer and temperatu
 The culture is constantly pumped (peristaltic pump) through a glass tube where the OD is constantly measured. The Photometer unit is based on a single module of the [test tube photometer](http://openplant.science/2017/12/09/photometer-shopping-list.html).
 
 You can directly jump to the subsections:
-- [Main components](#Main_components)
-- [Measuring cell components](#Measuring_cell_components)
-- [Build instructions](#Build_instructions)
+- [Main components](#Main-components)
+- [Measuring cell components](#Measuring-cell-components)
+- [Build instructions](#Build-instructions)
 - [Usage](#Usage)
-- [First results](#First_results)
+- [First results](#First-results)
 
 
 <img align="right" src="https://raw.githubusercontent.com/vektorious/test_tube_photometer/master/pictures/sketch.png" width=400px />
