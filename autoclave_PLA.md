@@ -13,8 +13,8 @@ Have a look at my documentation of the test series and judge it yourself:
 we printed two Benchy models with my Anet A8 printer using standard setting and cheap PLA. One of the models we put into a jar and autoclaved it (20 Minutes at 121 °C). we couldn't detect any changes in the autoclaved model compared to the not-autoclaved one. This was quite surprising for me because we expected at least some tiny bends at the overhangs. After the second time in the autoclave Benchy still looked very similar to its not-autoclaved clone. However, we could see some minor bends at its stern.
 
 <p align="center">
-  <img alt="First round" src="{{ "benchy1.jpg" | prepend: "https://github.com/BioMakers/2018-opensourcebioreactor/blob/master/img/PLA/" }}" style="margin-right: 5%" style="margin-top:2%" width="300"/>
-  <img alt="Second round" src="{{ "benchy2.jpg" | prepend: "https://github.com/BioMakers/2018-opensourcebioreactor/blob/master/img/PLA/" }}" style="margin-right: 5%" style="margin-top: 2%" width="300"/>
+  <img alt="First round" src="https://github.com/BioMakers/2018-opensourcebioreactor/blob/master/img/PLA/benchy1.jpg" style="margin-right: 5%" style="margin-top:2%" width="300"/>
+  <img alt="Second round" src="https://github.com/BioMakers/2018-opensourcebioreactor/blob/master/img/PLA/benchy2.jpg" style="margin-right: 5%" style="margin-top: 2%" width="300"/>
 </p>
 
 ### Third and fourth time
