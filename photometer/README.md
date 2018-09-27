@@ -59,7 +59,7 @@ I labeled each wire to make it easier for me to connect them later.<br><br>
 - Output (Output, pin 5)<br>
 - Input/Ground (Common, pin 8)
 
-<img align="right" src="https://raw.githubusercontent.com/vektorious/test_tube_photometer/master/pictures/sketch3.png" width=200px/>
+<img align="right" src="https://raw.githubusercontent.com/vektorious/test_tube_photometer/master/pictures/sketch3.png" width=180px/>
 
 3. **Connect it to the microcontroller**<br>
 Connect sensor pin 1 to 5V, pin 3 and 8 to ground. Sensor pin is connected to pin 5 with a potentiometer (or 1 MΩ resistor) in between (see circuit diagram on the right). You can now connect the sensor output (pin 5) to any analog input pin of your microcontroller and you are ready to measure light. <br>
@@ -76,6 +76,6 @@ The finished module can be attached to any peristaltic pump which fits the tube 
 
 ## First results
 
-**20.09.2018**
+**20.09.2018**<br>
 We finished a first prototype of the flow-through photometer and tested it with an E. coli cultures ([Jupyter Notebook with data analysis](https://github.com/BioMakers/2018-opensourcebioreactor/blob/master/photometer/photometer_data.ipynb)).
-Conclusion: Culture density can be measured but the precision has to be improved with further tests and setting of the potentiometer.
+<br>Conclusion: Culture density can be measured but the precision has to be improved with further tests and setting of the potentiometer.
