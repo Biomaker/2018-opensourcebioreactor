@@ -36,7 +36,7 @@ Be carful not to cut yourself while you prepare your pasteur pipette! Carefully 
 5. **Housing**<br>
 Well, this is optional too but it helps to keep the electronics save!
 
-<img align="right" src="https://raw.githubusercontent.com/vektorious/cOD/master/img/sketch2-3.png" width=210px />
+<img align="right" src="https://raw.githubusercontent.com/vektorious/cOD/master/img/sketch2-3.png" width=220px />
 
 ### Measuring cell components
 
