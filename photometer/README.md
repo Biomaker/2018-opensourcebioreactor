@@ -37,6 +37,7 @@ Be carful not to cut yourself while you prepare your pasteur pipette! Carefully 
 Well, this is optional too but it helps to keep the electronics save!
 
 <img align="right" src="https://raw.githubusercontent.com/vektorious/cOD/master/img/sketch2-2.png" width=400px />
+
 ### Measuring cell components
 
 1. **Cell housing and housing cover**<br>
@@ -59,6 +60,7 @@ The housing consists out of two parts, the main body and a sleeve. There are two
 Now you can start and solder wires to the sensor an LED pins. If you have problems soldering the sensor pins with the housing assembled you can remove the sensor, solder the wires and then assemble the housing. But then you might have to use some force to fit the soldered pins through the gaps.
 I labeled each wire to make it easier for me to connect them later.<br><br>
 <img align="right" src="https://raw.githubusercontent.com/vektorious/test_tube_photometer/master/pictures/sketch3.png" width=180px/>
+
 **You should end up with five wires from the sensor:**<br>
 - Power (V, pin 1)<br>
 - Input/Additional Feedback (-In, pin 2)<br>
