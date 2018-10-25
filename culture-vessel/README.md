@@ -34,6 +34,8 @@ We found 2L glass preserving jars that are widely available and can fit metal li
 
 ## Connection of tubing, sensors and actuators to the lid
 
+There are a range of silicon tubes, sensors and agitation devices that need to be mounted on the lid in such as way that they the internal components can be autoclaved with the device and the connections are airtight to avoid contamination during operation of the bioreactor.
+
 ### Adhesive Choice
 
 Adhesives should be autoclavable i.e. have high heat, humidity and pressure resistance. Various adhesives companies market epoxy resins with these properties to the medical device market e.g.those produced by [MasterBond](https://www.masterbond.com/properties/sterilization-resistant-adhesives) and 
@@ -54,12 +56,7 @@ Visbella Silicone Engine Repair Gasket Seal Maker High Temperature (Heat Resista
 
 **Chosen adhesive resin**: JB Weld Original Cold Weld Formula Steel Reinforced Epoxy 8265 ([Amazon](https://www.amazon.co.uk/gp/product/B0006O1ICE/ref=ox_sc_act_title_1?smid=A3P5ROKL5A1OLE&psc=1) | [Manufacturer] (https://www.jbweld.com/collections/metal/products/j-b-weld-twin-tube))
 
-
-## Autoclavable luer locks
-
-Luer locks are standardised threaded mechanisms for joining tubing and connectors, commonly used in lab and medical settings.
-
-### Plastic Materials
+### Plastic Choice
 
 There are numerous sites giving information on compatability of different plastics with different sterilisation methods, including this [useful table](http://www.industrialspec.com/images/files/plastics-sterilization-compatibility-chart-from-is-med-specialties.pdf) from industrialspec.com.
 
@@ -99,7 +96,7 @@ Ensinger Plastics ran tests with plastics exposed to pure saturated water vapour
  - Polyurethane
  - Polylactic Acid (PLA): our tests showed significant issues with brittleness after five cycles
  
- ### Options for 3D printing
+#### Filament Options for 3D printing
  
 Autoclavable 3D printing filaments are largely restricted to ULTEM and PEEK.
 The polyaryletherketone (PAEK) class of semi-crystalline plastics can withstand high temperatures and maintain high mechanical strength.
@@ -107,7 +104,21 @@ Polyether ether ketone (PEEK) filament and polyetherimide (PEI, brand name ULTEM
 
 Advantages of the more affordable PEI are that is has high heat, solvent and flame resistance, as well as high dielectric strength, thermal conductivity and overall strength. PEEK has higher impact strength and usable temperature.  
 
+### Autoclavable locks
 
-## Anti-Foam
+Luer locks are standardised threaded mechanisms for joining tubing and connectors, commonly used in lab and medical settings.
+
+
+### Alternative fixings
+
+
+
+## Reagents for cell culture
+
+### Anti-Foam
 
 Agitation can lead to bubbling in E.coli cultures to it is often necessary to add anti-foam chemicals. Low-cost and commonly available anti-foam agents include olive oil, sunflower oil, silicone, polyethylene glycol.
+
+### Culture Media
+
+## References
