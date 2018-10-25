@@ -4,13 +4,26 @@ This module involves design of the heated vessel and connections for various sen
 
 ### Design Goals
 
- - Glass, autoclavable bottle
- - Have low-cost connectors for the inputs and sensors that maintain sterility
- - Hold around 1L culture with plenty of air space (~ 2 L volume)
+ - Fully autoclavable
+ - Low-cost connectors for the inputs and sensors that maintain sterility
+ - Holds around 1L culture with plenty of air space (~ 2 L volume)
 
-We looked at typical culture vessels supplied by lab brands such as Duran but the cost was prohibitive (£200 for a wide-mouthed Duran bottle and an additional for the lid with bioreactor attachments).
 
-## Adhesive for connection of items in autoclavable units
+<img src="http://www.duran-group.com/uploads/pics/1112713_01.jpg" height="180" align="left"> 
+<img src="http://www.duran-group.com/uploads/pics/gruppe_ASS-GLS80sm_02.jpg" height="180" align="left"> 
+We looked at typical culture vessels supplied by lab brands such as Duran but the cost was prohibitive (£200 for a wide-mouthed Duran bottle and an additional £90 for the lid with bioreactor attachments). 
+
+This was therefore discounted as an option and we turned to catering suppliers for ideas of alternative vessels.
+
+<br>
+
+<img src="https://images-na.ssl-images-amazon.com/images/I/41MefnjdbgL._SY450_.jpg" height="200" align="right"> 
+
+We found 2L glass preserving jars that are widely available and can fit metal lids that would be autoclavable. We chose a [Le Parfait Orange Top Jar, 2.0L](https://www.amazon.co.uk/Parfait-Orange-Top-Jar-2-0L/dp/B01N91TANW) with [Familia Wiss lids](https://www.amazon.co.uk/Le-Parfait-Spare-Lids/dp/B002G6G73U/ref=sr_1_1?s=kitchen&ie=UTF8&qid=1540499155&sr=1-1&keywords=Le+Parfait+6+Familia+Wiss+lids) but any products of similar size and made from glass and metal could be substituted.
+
+<br>
+
+## Adhesive for connection of items toautoclavable units
 
 Adhesives should be autoclavable i.e. have high heat, humidity and pressure resistance. Various adhesives companies market epoxy resins with these properties to the medical device market e.g.those produced by [MasterBond](https://www.masterbond.com/properties/sterilization-resistant-adhesives) and 
 
