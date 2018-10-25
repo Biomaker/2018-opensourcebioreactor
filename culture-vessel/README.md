@@ -17,10 +17,10 @@ This option was discounted and we turned to catering suppliers for ideas of alte
 
 
 <img src="https://www.ozfarmer.com/image/cache/catalog/products/82mm-le-parfait-familia-wiss-screw-lid-800x800.png" height="200" align="right"> 
-<img src="https://images-na.ssl-images-amazon.com/images/I/41MefnjdbgL._SY450_.jpg" height="200" align="right">
+<img src="https://images-na.ssl-images-amazon.com/images/I/41MefnjdbgL._SY450_.jpg" height="200" align="right">We found 2L glass preserving jars that are widely available and can fit metal lids that would be autoclavable. We chose a [Le Parfait Orange Top Jar, 2.0L](https://www.amazon.co.uk/Parfait-Orange-Top-Jar-2-0L/dp/B01N91TANW) with [Familia Wiss lids](https://www.amazon.co.uk/Le-Parfait-Spare-Lids/dp/B002G6G73U/ref=sr_1_1?s=kitchen&ie=UTF8&qid=1540499155&sr=1-1&keywords=Le+Parfait+6+Familia+Wiss+lids) bt any products of similar size and made from glass and metal could be substituted.
 
 
-We found 2L glass preserving jars that are widely available and can fit metal lids that would be autoclavable. We chose a [Le Parfait Orange Top Jar, 2.0L](https://www.amazon.co.uk/Parfait-Orange-Top-Jar-2-0L/dp/B01N91TANW) with [Familia Wiss lids](https://www.amazon.co.uk/Le-Parfait-Spare-Lids/dp/B002G6G73U/ref=sr_1_1?s=kitchen&ie=UTF8&qid=1540499155&sr=1-1&keywords=Le+Parfait+6+Familia+Wiss+lids) bt any products of similar size and made from glass and metal could be substituted.
+
 
 
 ## Adhesive for connection of items toautoclavable units
