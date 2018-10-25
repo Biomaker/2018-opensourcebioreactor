@@ -36,7 +36,7 @@ Be carful not to cut yourself while you prepare your pasteur pipette! Carefully 
 5. **Housing**<br>
 Well, this is optional too but it helps to keep the electronics save!
 
-<img align="right" src="https://raw.githubusercontent.com/vektorious/cOD/master/img/sketch2-3.png" width=200px />
+<img align="right" src="https://raw.githubusercontent.com/vektorious/cOD/master/img/sketch2-3.png" width=210px />
 
 ### Measuring cell components
 
@@ -99,14 +99,14 @@ We finished a first prototype of the flow-through photometer and tested it with 
 **17.10.2018**<br>
 After a second completely failed test (pump stopped ca. 1 h after it was started) we performed a third run which was finally successful. We cultured *Pseudomonas syringae* (a plant pathogen, Alex's favorite bug) in a 300 ml flask and measured the OD with the photometer. Here are the results:
 <p align="center">
-<img src="https://raw.githubusercontent.com/BioMakers/2018-opensourcebioreactor/master/photometer/pst_181017.png" width=300px></p>
+<img src="https://raw.githubusercontent.com/BioMakers/2018-opensourcebioreactor/master/photometer/pst_181017.png" width=400px></p>
 
 The data seem to represent the real bacteria growth in the flask! You can easily distinguish the different growth phased of the culture ([about growth phases](https://en.wikipedia.org/wiki/Bacterial_growth)). The variation of the values at higher OD is due to the underlying calculations (negative logarithmic) and the sensitivity limits of photometers (in general!).
 
 **22.10.2018**<br>
 The fourth test run showed the same results as the previous run. Here are the results:
 <p align="center">
-<img src="https://raw.githubusercontent.com/BioMakers/2018-opensourcebioreactor/master/photometer/pst_181022.png" width=300px></p>
+<img src="https://raw.githubusercontent.com/BioMakers/2018-opensourcebioreactor/master/photometer/pst_181022.png" width=400px></p>
 
 There seem to be slight differences but this might be due to different scaling of the plots AND because we did not inoculate the culture with a specific OD. In fact in this test run the liquid culture was inoculated with bacteria from an agar plate.
 
