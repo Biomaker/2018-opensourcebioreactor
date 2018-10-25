@@ -14,7 +14,14 @@ This module involves design of the heated vessel and connections for various sen
 <img src="https://images-na.ssl-images-amazon.com/images/I/41MefnjdbgL._SY450_.jpg" height="180" align="left">
  <img src="https://www.ozfarmer.com/image/cache/catalog/products/82mm-le-parfait-familia-wiss-screw-lid-800x800.png" height="180" align="left">
  <br>
-
+ <br>
+ <br>
+ <br>
+ <br>
+  <br>
+   <br>
+   <br>
+    <br>
 
 We looked at typical culture vessels supplied by lab brands such as Duran but the cost was prohibitive (£200 for a wide-mouthed Duran bottle and an additional £90 for the lid with bioreactor attachments). 
 
