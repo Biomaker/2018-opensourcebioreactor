@@ -2,12 +2,15 @@
 
 This module involves design of the heated vessel and connections for various sensors and devices required to monitor and intervene in the bioreactor run.
 
+## The Vessel 
+
 ### Design Goals
 
  - Fully autoclavable
  - Low-cost connectors for the inputs and sensors that maintain sterility
  - Holds around 1L culture with plenty of air space (~ 2 L volume)
 
+### Hardware
 
 <img src="http://www.duran-group.com/uploads/pics/1112713_01.jpg" height="180" align="left"> 
 <img src="http://www.duran-group.com/uploads/pics/gruppe_ASS-GLS80sm_02.jpg" height="180" align="left"> 
@@ -27,11 +30,11 @@ We looked at typical culture vessels supplied by lab brands such as Duran but th
 
 This option was discounted and we turned to catering suppliers for ideas of alternative vessels.
 
-
 We found 2L glass preserving jars that are widely available and can fit metal lids that would be autoclavable. We chose a [Le Parfait Orange Top Jar, 2.0L](https://www.amazon.co.uk/Parfait-Orange-Top-Jar-2-0L/dp/B01N91TANW) with [Familia Wiss lids](https://www.amazon.co.uk/Le-Parfait-Spare-Lids/dp/B002G6G73U/ref=sr_1_1?s=kitchen&ie=UTF8&qid=1540499155&sr=1-1&keywords=Le+Parfait+6+Familia+Wiss+lids) but any products of similar size and made from glass and metal could be substituted.
 
+## Connection of tubing, sensors and actuators to the lid
 
-## Adhesive for connection of items to autoclavable units
+### Adhesive Choice
 
 Adhesives should be autoclavable i.e. have high heat, humidity and pressure resistance. Various adhesives companies market epoxy resins with these properties to the medical device market e.g.those produced by [MasterBond](https://www.masterbond.com/properties/sterilization-resistant-adhesives) and 
 
