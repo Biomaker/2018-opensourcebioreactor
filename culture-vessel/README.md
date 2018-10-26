@@ -101,7 +101,8 @@ The interface locks need to be sterilisable and avoid contamination during opera
 **Luer Locks**
 
 <img src="https://images-na.ssl-images-amazon.com/images/I/41G0BQ39WYL.jpg" height="180" align="left"> 
-[Luer locks](https://en.wikipedia.org/wiki/Luer_taper) are standardised threaded mechanisms for joining tubing and connectors, commonly used in lab and medical settings. They are defined by [ISO](https://en.wikipedia.org/wiki/International_Standards_Organization "International Standards Organization") [594 standards](https://en.wikipedia.org/wiki/Luer_taper#cite_note-3), [DIN](https://en.wikipedia.org/wiki/DIN "DIN") and [EN](https://en.wikipedia.org/wiki/European_standard "European standard") standards [1707:1996](https://en.wikipedia.org/wiki/Luer_taper#cite_note-4) and [20594-1:1993](https://en.wikipedia.org/wiki/Luer_taper#cite_note-5).
+
+[Luer locks](https://en.wikipedia.org/wiki/Luer_taper) are standardised threaded mechanisms for joining tubing and connectors, commonly used in lab and medical settings. They are defined by [ISO](https://en.wikipedia.org/wiki/International_Standards_Organization) [594 standards](https://en.wikipedia.org/wiki/Luer_taper#cite_note-3), [DIN](https://en.wikipedia.org/wiki/DIN "DIN") and [EN](https://en.wikipedia.org/wiki/European_standard "European standard") standards [1707:1996](https://en.wikipedia.org/wiki/Luer_taper#cite_note-4) and [20594-1:1993](https://en.wikipedia.org/wiki/Luer_taper#cite_note-5).
 
 They are available in autoclavable metal and PEEK and their use in medical applications and hydraulic systems means they are more likely to be available in numerous places. The cost per lock is £16-60 from lab supply companies and considerably less from medical and industrial suppliers.
 
@@ -115,6 +116,16 @@ Quick disconnect couplings are also available in [metal and polypropylene(]https
 <img src="http://www.customfabricate.com/images/bucket-grommets.jpg" height="180" align="left"> 
 <img src="https://cdn.shopify.com/s/files/1/0411/5921/products/31314_Hi-Temp_Red_Gasket_Maker_Sealant.jpg" height="180" align="left"> 
 <img src="https://images-na.ssl-images-amazon.com/images/I/71i7F8DNh8L._SL1500_.jpg" height="180" align="left"> 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
 
 In v1 we have used a less specialist combination of the following:
 
