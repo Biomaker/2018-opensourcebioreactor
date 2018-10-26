@@ -94,6 +94,8 @@ Autoclavable 3D printing filaments are largely restricted to Polyether ether ket
 
 PEI is the most affordable option and has high heat, solvent and flame resistance, as well as high dielectric strength, thermal conductivity and overall strength. PEEK has higher impact strength and usable temperature. Both require all-metal 3D printing nozzles and temperature control in the heating chamber to be effectively printed. Several companies sell inclubated chambers for printing at high temperatures and NASA modified the [open hardware Lulzbot printer](https://www.lulzbot.com/learn/NASA-high-temperature-printing) to print PEI by adding infrared lights, as described in a technical report [(Gardner et al., 2016)](https://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/20170000214.pdf).
 
+Due the restrictions on materials and modifications required, for v1 we did not 3D print any parts. For those who are able to, there are good guides [here](https://www.sculpteo.com/blog/2017/03/29/3d-printed-screw-threads-which-material-which-design/) and [here](https://formlabs.com/blog/adding-screw-threads-3d-printed-parts/) to printing screw threads and other fittings.
+
 ### Autoclavable locks
 
 The interface locks need to be sterilisable and avoid contamination during operation. We looked to medical connectors to offer a more widely available option than specialist lab equipment.
@@ -105,10 +107,11 @@ The interface locks need to be sterilisable and avoid contamination during opera
 [Luer locks](https://en.wikipedia.org/wiki/Luer_taper) are standardised threaded mechanisms for joining tubing and connectors, commonly used in lab and medical settings. They are defined by [ISO](https://en.wikipedia.org/wiki/International_Standards_Organization) [594 standards](https://en.wikipedia.org/wiki/Luer_taper#cite_note-3), [DIN](https://en.wikipedia.org/wiki/DIN "DIN") and [EN](https://en.wikipedia.org/wiki/European_standard "European standard") standards [1707:1996](https://en.wikipedia.org/wiki/Luer_taper#cite_note-4) and [20594-1:1993](https://en.wikipedia.org/wiki/Luer_taper#cite_note-5).
 
 They are available in autoclavable metal and PEEK and their use in medical applications and hydraulic systems means they are more likely to be available in numerous places. The cost per lock is £16-60 from lab supply companies and considerably less from medical and industrial suppliers.
+<br>
 
 **Quick Disconnect Couplings**
 
-Quick disconnect couplings are also available in [metal and polypropylene(]https://www.industrialspec.com/shop/medical-component-products/medical-quick-disconnect-couplings.html) and could be used for the purpose of connecting tubes and sensors.
+Quick disconnect couplings are also available in [metal and polypropylene](https://www.industrialspec.com/shop/medical-component-products/medical-quick-disconnect-couplings.html) and could be used for the purpose of connecting tubes and sensors.
 
 **Couplings**
 
@@ -126,7 +129,6 @@ Quick disconnect couplings are also available in [metal and polypropylene(]https
 <br>
 <br>
 
-
 In v1 we have used a less specialist combination of the following:
 
  - Rubber washers 
@@ -136,13 +138,6 @@ In v1 we have used a less specialist combination of the following:
  
 These are the most widely available options but not a secure as the interlocking mechanisms above and would not be suitable for devices operating under significant pressure.
 
-## Reagents for cell culture
-
-### Anti-Foam
-
-Agitation can lead to bubbling in E.coli cultures to it is often necessary to add anti-foam chemicals. Low-cost and commonly available anti-foam agents include olive oil, sunflower oil, silicone, polyethylene glycol.
-
-### Culture Media
 
 ## References
 
