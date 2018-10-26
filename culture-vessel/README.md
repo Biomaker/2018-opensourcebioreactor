@@ -87,7 +87,9 @@ Ensinger Plastics ran tests with plastics exposed to pure saturated water vapour
  **Bold** = 3D printable
  
 #### Filament Options for 3D printing
- 
+
+Alex Kutschera [tested PLA for autoclavability](https://github.com/BioMakers/2018-opensourcebioreactor/blob/master/autoclave_PLA.md) and found that the structural integrity was severely compromised after five rounds of autoclaving as the plastic became brittle. He estimates that it could undergo more cycles (up to 10) with little shape deformity as long as no pressure is applied.
+
 Autoclavable 3D printing filaments are largely restricted to Polyether ether ketone (PEEK) filament and polyetherimide (PEI, brand name ULTEM). However, the polyaryletherketone (PAEK) class of semi-crystalline plastics can also withstand high temperatures and maintain high mechanical strength.
 
 <img src="https://www.lulzbot.com/sites/default/files/Overview_2.jpg" height="180" align="left"> 
