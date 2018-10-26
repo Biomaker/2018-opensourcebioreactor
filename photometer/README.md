@@ -22,10 +22,10 @@ You can directly jump to the subsections:
 
 ### Main components
 1. **Arduino or similar microcontroller**<br>
-You need something to read the analog input of the sensors in a measuring routine. We used an Arduino Nano.
+You need something to read the analog input of the sensors in a measuring routine. I used an Arduino Nano.
 
 2. **LCD display**<br>
-This one is optional but nice if you instantly want to see the measured values. It is useful for easy calibration and for discontinuous measurements with the photometer. You can use any available LCD which works well with the microcontroller. We used a standard HD44780 16x2 LCD Display and a I2C backpack.
+This one is optional but nice if you instantly want to see the measured values. It is useful for easy calibration and for discontinuous measurements with the photometer. You can use any available LCD which works well with the microcontroller. I used a standard HD44780 16x2 LCD Display and a I2C backpack.
 
 3. **Measuring cell**<br>
 All the components you need to build a measuring cell are listed below.
@@ -41,13 +41,13 @@ Well, this is optional too but it helps to keep the electronics save!
 ### Measuring cell components
 
 1. **Cell housing and housing cover**<br>
-You can find the 3D models in this repository. The housing has slots for the LED and the photodiode, which are fixed with the housing cover. If you do not have access to a 3D printer you can find service providers online. We printed it with standard black PLA and we recommend you to use black material, too, because it improves sensitivity of the system significantly. You might have to adjust the parameters of the housing to fit with your pasteur pipette tube!
+You can find the 3D models in this repository. The housing has slots for the LED and the photodiode, which are fixed with the housing cover. If you do not have access to a 3D printer you can find service providers online. I printed it with standard black PLA and I recommend you to use black material, too, because it improves sensitivity of the system significantly. You might have to adjust the parameters of the housing to fit with your pasteur pipette tube!
 
 2. **LED**<br>
-It is really important to use a high quality LED because it determines the wavelength you are measuring with. We used a 600 nm LED from [Roithner LaserTechnik](http://www.roithner-laser.com/index.html). If you prefer to measure at a different wavelength choose your LED accordingly!
+It is really important to use a high quality LED because it determines the wavelength you are measuring with. I used a 600 nm LED from [Roithner LaserTechnik](http://www.roithner-laser.com/index.html). If you prefer to measure at a different wavelength choose your LED accordingly!
 
 3. **Photodiode**<br>
-This is the heart of the measuring cell. We used an [opt101](http://www.ti.com/lit/ds/symlink/opt101.pdf) from Texas Instruments because it contains an on-chip operational amplifier, and responds to light in the range of 300–1100 nm (linear dependence between 400–800 nm!). We added a external potentiometer to achieve a DC gain of up to 2 million volts per ampere to optimize the output voltages.
+This is the heart of the measuring cell. I used an [opt101](http://www.ti.com/lit/ds/symlink/opt101.pdf) from Texas Instruments because it contains an on-chip operational amplifier, and responds to light in the range of 300–1100 nm (linear dependence between 400–800 nm!). I added a external potentiometer to achieve a DC gain of up to 2 million volts per ampere to optimize the output voltages.
 
 ### Build instructions
 1. **Assemble the cell housing**<br>
@@ -93,11 +93,11 @@ The finished module can be attached to any peristaltic pump which fits the tube 
 ### First results
 
 **20.09.2018**<br>
-We finished a first prototype of the flow-through photometer and tested it with an E. coli cultures ([Jupyter Notebook with data analysis](https://github.com/BioMakers/2018-opensourcebioreactor/blob/master/photometer/photometer_data.ipynb)).
+I finished a first prototype of the flow-through photometer and tested it with an E. coli cultures ([Jupyter Notebook with data analysis](https://github.com/BioMakers/2018-opensourcebioreactor/blob/master/photometer/photometer_data.ipynb)).
 <br>Conclusion: Culture density can be measured but the precision has to be improved with further tests and setting of the potentiometer.
 
 **17.10.2018**<br>
-After a second completely failed test (pump stopped ca. 1 h after it was started) we performed a third run which was finally successful. We cultured *Pseudomonas syringae* (a plant pathogen, Alex's favorite bug) in a 300 ml flask and measured the OD with the photometer. Here are the results:
+After a second completely failed test (pump stopped ca. 1 h after it was started) I performed a third run which was finally successful. I cultured *Pseudomonas syringae* (a plant pathogen, Alex's favorite bug) in a 300 ml flask and measured the OD with the photometer. Here are the results:
 <p align="center">
 <img src="https://raw.githubusercontent.com/BioMakers/2018-opensourcebioreactor/master/photometer/pst_181017.png" width=400px></p>
 
@@ -108,6 +108,6 @@ The fourth test run showed the same results as the previous run. Here are the re
 <p align="center">
 <img src="https://raw.githubusercontent.com/BioMakers/2018-opensourcebioreactor/master/photometer/pst_181022.png" width=400px></p>
 
-There seem to be slight differences but this might be due to different scaling of the plots AND because we did not inoculate the culture with a specific OD. In fact in this test run the liquid culture was inoculated with bacteria from an agar plate.
+There seem to be slight differences but this might be due to different scaling of the plots AND because I did not inoculate the culture with a specific OD. In fact in this test run the liquid culture was inoculated with bacteria from an agar plate.
 
 All in all it seems like the results are reproducible but we still need to test it with different bacteria (e.g. *E. coli*) and other microorganisms (e.g. microalgae or yeast)
