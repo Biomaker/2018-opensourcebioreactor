@@ -2,10 +2,18 @@
 
 This module involves design of the heated vessel and connections for various sensors and devices required to monitor and intervene in the bioreactor run.
 
-The Vessel
-- Design Goals
-- Hardware
-Connection of tubing, sensors and actuators to the lid
+## Table of Contents 
+
+**[The Vessel](#the-vessel)**
+- [Design Goals](#design-goals)
+- [Hardware](#hardware)
+
+**[Connection of tubing, sensors and actuators to the lid](#connection-of-tubing-sensors-and-actuators-to-the-lid)**
+- [Adhesive Choice](#adhesive-choice)
+- [Plastic Choice](#plastic-choice)
+- [Autoclavable tubing connectors](#autoclavable-tubing-connectors)
+
+**[References](#references)**
 
 ## The Vessel 
 
@@ -103,7 +111,7 @@ PEI is the most affordable option and has high heat, solvent and flame resistanc
 
 Due the restrictions on materials and modifications required, for v1 we did not 3D print any parts. For those who are able to, there are good guides [here](https://www.sculpteo.com/blog/2017/03/29/3d-printed-screw-threads-which-material-which-design/) and [here](https://formlabs.com/blog/adding-screw-threads-3d-printed-parts/) to printing screw threads and other fittings.
 
-### Autoclavable locks
+### Autoclavable tubing connectors
 
 The interface locks need to be sterilisable and avoid contamination during operation. We looked to medical connectors to offer a more widely available option than specialist lab equipment.
 
