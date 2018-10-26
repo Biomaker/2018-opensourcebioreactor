@@ -68,15 +68,20 @@ We will use the workhorse of molecular biology Escherichia coli bacteria. In thi
 
 ## Project Implementation
 
-The project will be split into different modules to be prototyped, tested and documented:
+The project was split into different modules to be prototyped, tested and documented:
 
-A: Culture vessel: a glass, autoclavable bottle with connectors for the inputs and sensors. One design challenge is to source lower-cost connectors that maintain sterility.
+[A: Culture vessel](https://github.com/BioMakers/2018-opensourcebioreactor/tree/master/culture-vessel): a glass, autoclavable bottle with connectors for the inputs and sensors. One design challenge is to source lower-cost connectors that maintain sterility.
+
+We selected a readily available glass vessel and a metal lid to enable us to drill holes to attach the tubes and connectors.
+We investigated possibilities for autoclavable [adhesives](https://github.com/BioMakers/2018-opensourcebioreactor/tree/master/culture-vessel#adhesive-choice), [3D printing filaments and plastics]9https://github.com/BioMakers/2018-opensourcebioreactor/tree/master/culture-vessel#plastic-choice) and [connectors](https://github.com/BioMakers/2018-opensourcebioreactor/tree/master/culture-vessel#autoclavable-tubing-connectors) to ensure that the unit is fully sterilisable.
+
+We now have a very simple set of connectors but aim to standardise these further and speed up assembly with quick connect couplings in v2.
 
 B: Agitation System: Three main options to review to modify the existing base design, a magnetic stirrer, stirring paddle or bubble-based aeration using a aquarium pump (Yasumitsu et al., 2013).
 
 C: Temperature control system: Requires a temperature sensor and heating pad in closed loop control plus measurement of temperature readings throughout the culture volume.
 
-D: pH control system: We will test an online colorimetric sensor using immobilised neutral red (Hashemi et al., 2007) and a syringe pump driver or[ peristaltic pump](http://www.instructables.com/id/Open-Source-Peristaltic-Pump/) to automatically adjust using NaOH.
+D: pH control system: We planned to test an online colorimetric sensor using immobilised neutral red (Hashemi et al., 2007) and a syringe pump driver or[ peristaltic pump](http://www.instructables.com/id/Open-Source-Peristaltic-Pump/) to automatically adjust using NaOH but we decided instead to focus on optimising the closed loop control using a standard pH probe.
 
 E: Optical density sensor: The goal is to have a continuous monitoring device, there are several publications to review and test a range of sensors loops, taking the [Aaachen 2015 iGEM team design](http://2015.igem.org/Team:Aachen/Lab/Bioreactor/Hardware) as a starting point,
 
