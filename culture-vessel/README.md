@@ -2,6 +2,11 @@
 
 This module involves design of the heated vessel and connections for various sensors and devices required to monitor and intervene in the bioreactor run.
 
+The Vessel
+- Design Goals
+- Hardware
+Connection of tubing, sensors and actuators to the lid
+
 ## The Vessel 
 
 ### Design Goals
