@@ -67,50 +67,34 @@ Ensinger Plastics ran tests with plastics exposed to pure saturated water vapour
  - Low coefficient of thermal expansion
  - Low moisture absorption
  - Temperature resistance up to 134 C
-
-**Autoclave compatible plastics:**
-
- - Polypropylene  (Ensinger results: TECAPRO MT shows no significant loss of mechanical properties until 800 sterilisation cycles. However, discolouration and colour change (yellowing) is seen at 200 sterilisation cycles (does not apply to TECAPRO MT black). 
- - Polycarbonate can also withstand high temperatures. 
- - Polysulfone
- - **Ultem®**
- - PPSU (Ensinger results: TECASON P MT shows no significant loss of mechanical properties until 800 sterilisation cycles. Also, significant discolouration is not seen below 1,000 sterilisation cycles. 
- - **PEEK** (Ensinger results: TECAPEEK MT shows no significant loss of mechanical properties, even at more than 1,500 sterilisation cycles. Also, further negative influences like discolouration or colour change (yellowing), or even calcification are not seen above 1,500 cycles.)
- - POM-C medical grade (Ensinger results: TECAFORM AH MT shows no significant loss of the mechanical properties until 800 sterilisation cycles. However, discolouration may be seen at 200 sterilisation cycles. At around 500 sterilisation cycles, a colour change (yellowing) may also be seen.)
- - PFA (perfluoroalkoxy) 
- - FEP (fluorinated ethylene propylene) 
- - ETFE (ethylene tetrafluoroethylene) 
- - PCTE (polychlorotrifluoroethylene)
- - ECTFE (ethylene chlorotrifluoroethylene)
+ 
+ 
+| Autoclave compatible plastics  | NOT to be autoclaved |
+| ------------| ------------|
+|  Polypropylene  (Ensinger results: TECAPRO MT shows no significant loss of mechanical properties until 800 sterilisation cycles. However, discolouration and colour change (yellowing) is seen at 200 sterilisation cycles (does not apply to TECAPRO MT black).  |  Polystyrene (PS) |
+| Polycarbonate can also withstand high temperatures.  |   Polyvinyl chloride (PVC |
+| Polysulfone |  Nylon |
+| **Ultem®** |  Acrylic |
+| PPSU (Ensinger results: TECASON P MT shows no significant loss of mechanical properties until 800 sterilisation cycles. Also, significant discolouration is not seen below 1,000 sterilisation cycles.  | Low-density polyethylene (LDPE) |
+| **PEEK** (Ensinger results: TECAPEEK MT shows no significant loss of mechanical properties, even at more than 1,500 sterilisation cycles. Also, further negative influences like discolouration or colour change (yellowing), or even calcification are not seen above 1,500 cycles.) |  High-density polyethylene (HDPE)  |
+| POM-C medical grade (Ensinger results: TECAFORM AH MT shows no significant loss of the mechanical properties until 800 sterilisation cycles. However, discolouration may be seen at 200 sterilisation cycles. At around 500 sterilisation cycles, a colour change (yellowing) may also be seen.) |  Polylactic Acid (PLA): our tests showed significant issues with brittleness after five cycles |
+| PFA (perfluoroalkoxy)  |  Polyurethane |
+| FEP (fluorinated ethylene propylene)  |  
+| ETFE (ethylene tetrafluoroethylene)  | |
+| PCTE (polychlorotrifluoroethylene) | |
+| ECTFE (ethylene chlorotrifluoroethylene)  |  |
  
  **Bold** = 3D printable
-
-**NOT to be autoclaved:**
-
- - Polystyrene (PS)
- - Polyvinyl chloride (PVC)
- - Nylon
- - Acrylic
- - Low-density polyethylene (LDPE)
- - High-density polyethylene (HDPE) 
- - Polyurethane
- - Polylactic Acid (PLA): our tests showed significant issues with brittleness after five cycles
  
 #### Filament Options for 3D printing
  
-Autoclavable 3D printing filaments are largely restricted to ULTEM and PEEK.
-The polyaryletherketone (PAEK) class of semi-crystalline plastics can withstand high temperatures and maintain high mechanical strength.
-Polyether ether ketone (PEEK) filament and polyetherimide (PEI, brand name ULTEM) ate the .
+Autoclavable 3D printing filaments are largely restricted to Polyether ether ketone (PEEK) filament and polyetherimide (PEI, brand name ULTEM). However, the polyaryletherketone (PAEK) class of semi-crystalline plastics can also withstand high temperatures and maintain high mechanical strength.
 
-Advantages of the more affordable PEI are that is has high heat, solvent and flame resistance, as well as high dielectric strength, thermal conductivity and overall strength. PEEK has higher impact strength and usable temperature.  
+PEI is the most affordable option and has high heat, solvent and flame resistance, as well as high dielectric strength, thermal conductivity and overall strength. PEEK has higher impact strength and usable temperature. Both require all-metal 3D printing nozzles and temperature control in the heating chamber to be effectively printed. Several companies sell inclubated chambers for printing at high temperatures and NASA modified the [open hardware Lulzbot printer](https://www.lulzbot.com/learn/NASA-high-temperature-printing) to print PEI by adding infrared lights, as described in this [technical report](https://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/20170000214.pdf).
 
 ### Autoclavable locks
 
 Luer locks are standardised threaded mechanisms for joining tubing and connectors, commonly used in lab and medical settings.
-
-
-### Alternative fixings
-
 
 
 ## Reagents for cell culture
