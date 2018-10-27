@@ -3,7 +3,7 @@
 
 # Summary
 
-We plan to build an open source, benchtop, batch bioreactor to optimise yield of enzymes producing recombinant proteins for molecular biology such as Taq polymerase or for cell-free extract production. This will build on existing open source projects to further reduce the cost of components and pay particular attention to their global accessibility. By generating a modular design with thorough and useful documentation of different options to suit budget and accuracy requirements, we will make these devices easier to build and maintain for a wider range of users in universities, companies and biomaker spaces: in particular those in resource-constrained contexts.
+We are building an open source, benchtop, batch bioreactor to optimise yield of enzymes producing recombinant proteins for molecular biology such as Taq polymerase or for cell-free extract production. This built on existing open source projects to further reduce the cost of components and pay particular attention to their global accessibility. By generating a modular design with thorough and useful documentation of different options to suit budget and accuracy requirements, we will make these devices easier to build and maintain for a wider range of users in universities, companies and biomaker spaces: in particular those in resource-constrained contexts.
 
 Contact us via Jenny Molloy (✉️  jcm80@cam.ac.uk) or via our 💬  [chat channel](https://chat.biomake.space/members/channels/open-source-bioreactor).
 
@@ -70,12 +70,20 @@ We will use the workhorse of molecular biology Escherichia coli bacteria. In thi
 
 The project was split into different modules to be prototyped, tested and documented:
 
-[A: Culture vessel](https://github.com/BioMakers/2018-opensourcebioreactor/tree/master/culture-vessel): a glass, autoclavable bottle with connectors for the inputs and sensors. One design challenge is to source lower-cost connectors that maintain sterility.
+### [A: Culture vessel](https://github.com/BioMakers/2018-opensourcebioreactor/tree/master/culture-vessel)
 
-We selected a readily available glass vessel and a metal lid to enable us to drill holes to attach the tubes and connectors.
+**Design Goals**
+
+ - Fully autoclavable
+ - Low-cost connectors for the inputs and sensors that maintain sterility
+ - Holds around 1L culture with plenty of air space (~ 2 L volume)
+
+**Completed Work**
+We selected a readily available glass vessel and a metal lid enabling us to drill holes to attach the tubes and connectors.
 We investigated possibilities for autoclavable [adhesives](https://github.com/BioMakers/2018-opensourcebioreactor/tree/master/culture-vessel#adhesive-choice), [3D printing filaments and plastics]9https://github.com/BioMakers/2018-opensourcebioreactor/tree/master/culture-vessel#plastic-choice) and [connectors](https://github.com/BioMakers/2018-opensourcebioreactor/tree/master/culture-vessel#autoclavable-tubing-connectors) to ensure that the unit is fully sterilisable.
 
-We now have a very simple set of connectors but aim to standardise these further and speed up assembly with quick connect couplings in v2.
+**Future Plans**
+We now have a very simple set of connectors but aim to standardise these further and speed up assembly with [quick connect couplings](https://www.coleparmer.co.uk/c/quick-disconnect-fittings) in v2. Another improvement could be to design baffles for the vessel. These are which are commonly used to prevent a vortex and to improve aeration efficiency
 
 B: Agitation System: Three main options to review to modify the existing base design, a magnetic stirrer, stirring paddle or bubble-based aeration using a aquarium pump (Yasumitsu et al., 2013).
 
