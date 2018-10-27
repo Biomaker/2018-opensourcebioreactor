@@ -100,14 +100,18 @@ We now have a very simple set of connectors but aim to standardise these further
 We investigated four options:
 
  - a magnetic stirrer
- - - 
+   - we have a lab grade magnetic stirrer but there are numerous DIY versions. 
+   - The Oscillostat team have used a design with a computer cooling fan with a magnet attached that is also attached to their sensors to avoid agitation interfering with measurements by switching the stirring off while taking measurements.
  - an impeller or stirring paddle 
+   - we considered laser cut or 3D-printed impellers but finding autoclavable plastic made this impractical.
+   - we are currently looking into easy to access metal options.
  - bubble-based aeration using a aquarium pump and an airstone (Yasumitsu et al., 2013).
- - -  the quality of the lower-cost airstones was insufficient for uniform bubble distribution
- - -  choice was limited because we needed to use carborundum rather than mineral stone which is not autoclavable (Yasumitsu et al., 2013). They were typically too large for the size of vessel and required more powerful airflow.
- - -  We had more success with 
+   - the quality of the lower-cost airstones was insufficient for uniform bubble distribution.
+   - choice was limited because we needed to use carborundum rather than mineral stone which is not autoclavable (Yasumitsu et al., 2013). The carborundum stones were typically too large for the size of vessel and required more powerful airflow.
+   - we had more success with stainless steel stones for brewing, which provide far more uniform bubble formation and are autoclavable.
+   - we also plan to look into fibreglass and fused glass bead options.
  - bubble-based aeration using a aquarium pump and an air curtain 
-  - - The quality of the lower-cost air curtain was insufficient for uniform bubble distribution
+  - The quality of the lower-cost air curtain was insufficient for uniform bubble distribution
  
 
 **Future Plans**
