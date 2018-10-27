@@ -79,13 +79,40 @@ The project was split into different modules to be prototyped, tested and docume
  - Holds around 1L culture with plenty of air space (~ 2 L volume)
 
 **Completed Work**
+
 We selected a readily available glass vessel and a metal lid enabling us to drill holes to attach the tubes and connectors.
-We investigated possibilities for autoclavable [adhesives](https://github.com/BioMakers/2018-opensourcebioreactor/tree/master/culture-vessel#adhesive-choice), [3D printing filaments and plastics]9https://github.com/BioMakers/2018-opensourcebioreactor/tree/master/culture-vessel#plastic-choice) and [connectors](https://github.com/BioMakers/2018-opensourcebioreactor/tree/master/culture-vessel#autoclavable-tubing-connectors) to ensure that the unit is fully sterilisable.
+We investigated possibilities for autoclavable [adhesives](https://github.com/BioMakers/2018-opensourcebioreactor/tree/master/culture-vessel#adhesive-choice), [3D printing filaments and plastics](https://github.com/BioMakers/2018-opensourcebioreactor/tree/master/culture-vessel#plastic-choice) and [connectors](https://github.com/BioMakers/2018-opensourcebioreactor/tree/master/culture-vessel#autoclavable-tubing-connectors) to ensure that the unit is fully sterilisable.
 
 **Future Plans**
-We now have a very simple set of connectors but aim to standardise these further and speed up assembly with [quick connect couplings](https://www.coleparmer.co.uk/c/quick-disconnect-fittings) in v2. Another improvement could be to design baffles for the vessel. These are which are commonly used to prevent a vortex and to improve aeration efficiency
 
-B: Agitation System: Three main options to review to modify the existing base design, a magnetic stirrer, stirring paddle or bubble-based aeration using a aquarium pump (Yasumitsu et al., 2013).
+We now have a very simple set of connectors but aim to standardise these further and speed up assembly with [quick connect couplings](https://www.coleparmer.co.uk/c/quick-disconnect-fittings) in v2. Another improvement could be to design baffles for the vessel. These are panels on the walls of the vessel which are commonly used to prevent a vortex and to improve aeration efficiency
+
+### [B: Agitation System](https://github.com/BioMakers/2018-opensourcebioreactor/tree/master/agitation)
+
+**Design Goals**
+
+ - Adequate aeration of the culture for good oxygen levels throughout the vessel.
+ - Autoclavable
+ - Easily accessible hardware
+
+**Completed Work**
+
+We investigated four options:
+
+ - a magnetic stirrer
+ - - 
+ - an impeller or stirring paddle 
+ - bubble-based aeration using a aquarium pump and an airstone (Yasumitsu et al., 2013).
+ - -  the quality of the lower-cost airstones was insufficient for uniform bubble distribution
+ - -  choice was limited because we needed to use carborundum rather than mineral stone which is not autoclavable (Yasumitsu et al., 2013). They were typically too large for the size of vessel and required more powerful airflow.
+ - -  We had more success with 
+ - bubble-based aeration using a aquarium pump and an air curtain 
+  - - The quality of the lower-cost air curtain was insufficient for uniform bubble distribution
+ 
+
+**Future Plans**
+We have not run parallel testing of the aeration and agitation systems, so this is our nex plan followed by optimisation of airflow.
+Eventually we would integrate a dissolved oxygen sensor to control the aeration and agitation to maintain oxygen levels through feedback control.
 
 C: Temperature control system: Requires a temperature sensor and heating pad in closed loop control plus measurement of temperature readings throughout the culture volume.
 
