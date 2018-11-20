@@ -83,6 +83,8 @@ The project was split into different modules to be prototyped, tested and docume
 We selected a readily available glass vessel and a metal lid enabling us to drill holes to attach the tubes and connectors.
 We investigated possibilities for autoclavable [adhesives](https://github.com/BioMakers/2018-opensourcebioreactor/tree/master/culture-vessel#adhesive-choice), [3D printing filaments and plastics](https://github.com/BioMakers/2018-opensourcebioreactor/tree/master/culture-vessel#plastic-choice) and [connectors](https://github.com/BioMakers/2018-opensourcebioreactor/tree/master/culture-vessel#autoclavable-tubing-connectors) to ensure that the unit is fully sterilisable.
 
+We found 2L glass preserving jars that are widely available and can fit metal lids that would be autoclavable. We chose a Le Parfait Orange Top Jar, 2.0L with Familia Wiss lids but any products of similar size and made from glass and metal could be substituted.
+
 **Future Plans**
 
 We now have a very simple set of connectors but aim to standardise these further and speed up assembly with [quick connect couplings](https://www.coleparmer.co.uk/c/quick-disconnect-fittings) in v2. Another improvement could be to design baffles for the vessel. These are panels on the walls of the vessel which are commonly used to prevent a vortex and to improve aeration efficiency
